@@ -1,4 +1,4 @@
-<h2>week 00</h2>
+<h2>week 01</h2>
 <h3>set-up and summer shares</h3>
 <p>This is the first week of class. <br>
 We will discuss the protyping cycle, what is an STL, and how a 3D printer works.<br>
