@@ -1,8 +1,8 @@
 <h2>week 02</h2>
-<h3>G</h3>
-<p>This is the first week of class. <br>
-We will discuss the protyping cycle, what is an STL, and how a 3D printer works.<br>
-Students will particpate in a paper prototyping exercise, designing their own figurine from their favorite IP.</p>
+<h3>Group Project</h3>
+<p>Two groups will design an project using the Exquisite corpse method<br>
+We create a 2D EC project using pen and paper w two groups.<br>
+Students will take turns working with the TynkerCAD program designing a project reflecting their EC outcome.</p>
 <h4>Goals</h4>
-<ul><li>Understanding how 3D printing work</li><li>Understanding the Prototyping cycle</li><li>ideation of a project for the semester</li><li>paper protyping that project</li></ul>
+<ul><li>Group Project dynamics</li><li>Understanding the Prototyping cycle</li><li>working on TynkerCAD in a group setting</li><li>paper protyping through playcentric designing</li></ul>
 
