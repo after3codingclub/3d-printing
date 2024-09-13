@@ -4,5 +4,5 @@
 We will discuss the protyping cycle, what is an STL, and how a 3D printer works.<br>
 Students will particpate in a paper prototyping exercise, designing their own figurine from their favorite IP.</p>
 <h4>Goals</h4>
-<ul><li>Understanding how 3D printing work</li><li>Understanding the Prototyping cycle</li><li>3D printing an STL</li><li>ideation of a project for the semester</li></ul>
+<ul><li>Understanding how 3D printing work</li><li>Understanding the Prototyping cycle</li><li>ideation of a project for the semester</li></ul>
 
